@@ -37,6 +37,7 @@
     "website": "10-34-numerical-methods-applied-to-chemical-engineering-fall-2015"
   },
   "course_title": "Numerical Methods Applied to Chemical Engineering",
+  "hide_download": true,
   "course_description": "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: Numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g. Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed.\n",
   "department_numbers": [
     "10"
@@ -47,6 +48,7 @@
     "content": "1846e0e0-47f2-da78-aabf-ac6a269065aa",
     "website": "10-34-numerical-methods-applied-to-chemical-engineering-fall-2015"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Programming Assignments",

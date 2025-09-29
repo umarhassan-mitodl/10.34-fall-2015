@@ -4,6 +4,8 @@ description: This resource contains information regarding Latex Template for Hom
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/d210d3ba8adba8569ce50d90e86f3f2d_LatexTemplate.zip
 file_size: 189518
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

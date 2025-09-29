@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/f4db16ae8dbd448f82ad59017fa03942_Vu_oF9tcjaA.pdf
 file_size: 68499
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

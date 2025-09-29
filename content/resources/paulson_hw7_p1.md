@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/4c6b5a7e97ec017fbb7828011deafcc5_paulson_HW7_P1.m
 file_size: 12713
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

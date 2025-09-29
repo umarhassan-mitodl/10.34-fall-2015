@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/8f235621d4a10971ca634ffb070f4d0c_MIT10_34F15_HW9_Prob.pdf
 file_size: 319470
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

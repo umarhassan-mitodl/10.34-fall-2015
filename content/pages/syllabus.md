@@ -87,16 +87,16 @@ Sometimes you may find a homework problem is consuming an inordinate amount of t
 Using MATLAB
 ------------
 
-_Install this program as soon as possible_ (if not already installed). There will be MATLAB tutorial help sessions for any students who have not used this program before or who need a refresher. You are also encouraged to go through any of the numerous {{% resource_link "440093ac-222c-49f5-a723-8539b5798564" "tutorials" %}} provided by Mathworks.
+_Install this program as soon as possible_ (if not already installed). There will be MATLAB tutorial help sessions for any students who have not used this program before or who need a refresher. You are also encouraged to go through any of the numerous [tutorials](http://www.mathworks.com/academia/student_center/tutorials/?s_tid=acmain_st-pop-tut_gw_bod) provided by Mathworks.
 
 Reading Materials
 -----------------
 
-Required textbook: Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with {{% resource_link "eada0c55-b922-4039-a4ea-e7913433e839" "Google Books" %}}\]
+Required textbook: Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with [Google Books](http://books.google.com/books?id=_dycW5UTVc0C&pg=PAfrontcover)\]
 
 You are expected to read the course materials before class, and to read the materials again before doing homework. Some reference books that may be helpful:
 
-Press, W. H. _Numerical Recipes 3rd Edition: The Art of Scientific Computing_. Cambridge University Press, 2007. ISBN: 9780521880688. \[Preview with {{% resource_link "3c0e6dfd-8d13-4e4f-9984-cde821adfb18" "Google Books" %}}\] (This comes in various editions) — This book provides short clear synopses of methods for many types of problems.
+Press, W. H. _Numerical Recipes 3rd Edition: The Art of Scientific Computing_. Cambridge University Press, 2007. ISBN: 9780521880688. \[Preview with [Google Books](http://books.google.com/books?id=1aAOdzK3FegC&pg=PAfrontcover)\] (This comes in various editions) — This book provides short clear synopses of methods for many types of problems.
 
 Rektenwald, G. _Numerical Methods with MATLAB: Implementations and Applications_. Pearson, 2000. ISBN: 9780201308600 — This book provides only simple numerical methods, but is good introdution to using MATLAB.
 

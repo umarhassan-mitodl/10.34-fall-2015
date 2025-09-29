@@ -3,6 +3,8 @@ content_type: page
 description: This page includes the reading assigments for the MIT course 10.34 Numerical
   Methods Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green,
   Jr. and Prof. James W. Swan.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Readings
 uid: e2a0e91a-043c-db44-1339-c7f199c69b72
 ---
 
-\[Beers\] = Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB{{< sup "®" >}}_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with {{% resource_link "eada0c55-b922-4039-a4ea-e7913433e839" "Google Books" %}}\]
+\[Beers\] = Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB{{< sup "®" >}}_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with [Google Books](http://books.google.com/books?id=_dycW5UTVc0C&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c7a16799866075e0335e1c99a0c1bc68_swan_HW2_2.m
 file_size: 1038
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

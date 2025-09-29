@@ -3,6 +3,8 @@ content_type: video_gallery
 description: This page provides all available class videos for the MIT course 10.34
   Numerical Methods Applied to Chemical Engineering of Fall 2015, taught by Prof.
   William Green, Jr.  and Prof. James W. Swan.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

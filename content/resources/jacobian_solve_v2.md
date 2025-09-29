@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/eb020acb5b7c50ad82492bec1ab7acde_jacobian_solve_v2.m
 file_size: 1699
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
