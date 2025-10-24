@@ -4,8 +4,6 @@ description: This page provides all assigned homework for the MIT course 10.34 N
   Methods Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green,
   Jr. and Prof. James W. Swan.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Assignments
 uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 ---
