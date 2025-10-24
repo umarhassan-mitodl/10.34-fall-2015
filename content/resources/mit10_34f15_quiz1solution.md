@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding Numerical Methods
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/d622f928b4daa0e567ada2ea5e468667_MIT10_34F15_Quiz1solution.pdf
 file_size: 274657
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

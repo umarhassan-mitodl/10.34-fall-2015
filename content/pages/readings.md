@@ -3,8 +3,6 @@ content_type: page
 description: This page includes the reading assigments for the MIT course 10.34 Numerical
   Methods Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green,
   Jr. and Prof. James W. Swan.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -4,8 +4,6 @@ description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/88d92a8481eae3bc954f339709aea0ae_HW8_data.xls
 file_size: 19456
 file_type: application/vnd.ms-excel
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
